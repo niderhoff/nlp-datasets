@@ -113,3 +113,11 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Yelp](https://www.yelp.com/academic_dataset): including restaurant rankings and 2.2M reviews (on request)
 
 *   [Youtube](https://www.reddit.com/r/datasets/comments/3gegdz/17_millions_youtube_videos_description/): 1.7 million youtube videos descriptions (torrent)
+
+## Sources
+*   [Awesome public datasets/NLP](https://github.com/caesar0301/awesome-public-datasets#natural-language)
+*   [AWS Public Datasets](http://aws.amazon.com/de/datasets/)
+*   [Kaggle](https://www.kaggle.com/datasets)
+*   [Open Library](https://openlibrary.org/developers/dumps)
+*   [/r/datasets](https://www.reddit.com/r/datasets)
+*   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/)
