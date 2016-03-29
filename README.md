@@ -6,6 +6,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Blog Authorship Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm): consists of the collected posts of 19,320 bloggers gathered from blogger.com in August 2004. 681,288 posts and over 140 million words. (298 MB)
 
+*   [Amazon Fine Food Reviews [Kaggle]](https://www.kaggle.com/snap/amazon-fine-food-reviews): consists of 568,454 food reviews Amazon users left up to October 2012. [Paper](http://i.stanford.edu/~julian/pdfs/www13.pdf). (240 MB)
+
 *   [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html): Stanford collection of 35 million amazon reviews. (11 GB)
 
 *   [ArXiv](http://arxiv.org/help/bulk_data_s3): All the Papers on archive as fulltext (270 GB) + sourcefiles (190 GB).
@@ -50,6 +52,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Harvard Library](http://library.harvard.edu/open-metadata#Harvard-Library-Bibliographic-Dataset): over 12 million bibliographic records for materials held by the Harvard Library, including books, journals, electronic resources, manuscripts, archival materials, scores, audio, video and other materials. (4 GB)
 
+*   [Hillary Clinton Emails [Kaggle]](https://www.kaggle.com/kaggle/hillary-clinton-emails): nearly 7,000 pages of Clinton's heavily redacted emails (12 MB)
+
 *   [Jeopardy](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/): archive of 216,930 past Jeopardy questions (53 MB)
 
 *   [Machine Translation of European Languages](http://statmt.org/wmt11/translation-task.html#download): (612 MB)
@@ -58,6 +62,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
 
+*   [NIPS2015 Papers (version 2) [Kaggle]](https://www.kaggle.com/benhamner/nips-2015-papers/version/2): full text of all NIPS2015 papers (335 MB)
+
 *   [NYTimes Facebook Data](http://minimaxir.com/2015/07/facebook-scraper/): all the NYTimes facebook posts (5 MB)
 
 *   [Open Library Data Dumps](https://openlibrary.org/developers/dumps): dump of all revisions of all the records in Open Library. (16 GB)
@@ -65,6 +71,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Personae Corpus](http://www.clips.uantwerpen.be/datasets/personae-corpus): collected for experiments in Authorship Attribution and Personality Prediction. It consists of 145 Dutch-language essays by 145 different students. (on request)
 
 *   [Reddit Comments](https://www.reddit.com/r/datasets/top/?sort=top&t=all): every publicly available reddit comment as of july 2015. 1.7 billion comments (250 GB)
+
+*   [Reddit Comments (May ‘15) [Kaggle]](https://www.kaggle.com/reddit/reddit-comments-may-2015): subset of above dataset (8 GB)
 
 *   [Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/): all publicly available Reddit submissions from January 2006 - August 31, 2015). (42 GB)
 
@@ -75,6 +83,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [SouthparkData](https://github.com/BobAdamsEE/SouthParkData): .csv files containing script information including: season, episode, character, & line. (3.6 MB)
 
 *   [Stackoverflow](http://data.stackexchange.com/): 7.3 million stackoverflow questions + other stackexchanges (query tool)
+
+*   [Twitter US Airline Sentiment [Kaggle]](https://www.kaggle.com/crowdflower/twitter-airline-sentiment): A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). (2.5 MB)
 
 *   [Westbury Lab Usenet Corpus](http://aws.amazon.com/de/datasets/the-westburylab-usenet-corpus/): anonymized compilation of postings from 47,860 English-language newsgroups from 2005-2010 (40 GB)
 
