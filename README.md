@@ -120,4 +120,5 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Kaggle](https://www.kaggle.com/datasets)
 *   [Open Library](https://openlibrary.org/developers/dumps)
 *   [/r/datasets](https://www.reddit.com/r/datasets)
+*   [rs.io](http://rs.io/100-interesting-data-sets-for-statistics/)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/)
