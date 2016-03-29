@@ -7,7 +7,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Blog Authorship Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm): consists of the collected posts of 19,320 bloggers gathered from blogger.com in August 2004. 681,288 posts and over 140 million words. (298 MB)
 
 *   [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html): Stanford collection of 35 million amazon reviews. (11 GB)
-[ArXiv](http://arxiv.org/help/bulk_data_s3): All the Papers on archive as fulltext (270 GB) + sourcefiles (190 GB).
+
+*   [ArXiv](http://arxiv.org/help/bulk_data_s3): All the Papers on archive as fulltext (270 GB) + sourcefiles (190 GB).
 
 *   [CLiPS Stylometry Investigation (CSI) Corpus](http://www.clips.uantwerpen.be/datasets/csi-corpus): a yearly expanded corpus of student texts in two genres: essays and reviews. The purpose of this corpus lies primarily in stylometric research, but other applications are possible. (on request)
 
