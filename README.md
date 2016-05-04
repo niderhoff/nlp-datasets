@@ -94,7 +94,9 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Twitter US Airline Sentiment [Kaggle]](https://www.kaggle.com/crowdflower/twitter-airline-sentiment): A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). (2.5 MB)
 
-*   [Westbury Lab Usenet Corpus](http://aws.amazon.com/de/datasets/the-westburylab-usenet-corpus/): anonymized compilation of postings from 47,860 English-language newsgroups from 2005-2010 (40 GB)
+*   [Wesbury Lab Usenet Corpus](http://aws.amazon.com/de/datasets/the-westburylab-usenet-corpus/): anonymized compilation of postings from 47,860 English-language newsgroups from 2005-2010 (40 GB)
+
+*   [Wesbury Lab Wikipedia Corpus](http://www.psych.ualberta.ca/~westburylab/downloads/westburylab.wikicorp.download.html) Snapshot of all the articles in the English part of the Wikipedia that was taken in April 2010. It was processed, as described in detail below, to remove all links and irrelevant material (navigation text, etc) The corpus is untagged, raw text. Used by [Stanford NLP](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9060444488071171966&as_sdt=5) (1.8 GB).
 
 *   [Wikipedia Extraction (WEX)](http://aws.amazon.com/de/datasets/wikipedia-extraction-wex/): a processed dump of english language wikipedia (66 GB)
 
