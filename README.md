@@ -1,5 +1,5 @@
 # nlp-datasets
-Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP).
+Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
 ## Datasets
 *   [Apache Software Foundation Public Mail Archives](http://aws.amazon.com/de/datasets/apache-software-foundation-public-mail-archives/): all publicly available Apache Software Foundation mail archives as of July 11, 2011 (200 GB)
@@ -161,5 +161,5 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Quora](https://www.quora.com/Datasets-What-are-the-major-text-corpora-used-by-computational-linguists-and-natural-language-processing-researchers-and-what-are-the-characteristics-biases-of-each-corpus) (mainly annotated corpora)
 *   [/r/datasets](https://www.reddit.com/r/datasets)
 *   [rs.io](http://rs.io/100-interesting-data-sets-for-statistics/)
-*   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html)
+*   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/)
