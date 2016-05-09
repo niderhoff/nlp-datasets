@@ -82,6 +82,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
 
+*   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
+
 *   [News article / Wikipedia page pairings](https://www.crowdflower.com/data-for-everyone/): Contributors read a short article and were asked which of two Wikipedia articles it matched most closely. (6 MB)
 
 *   [NIPS2015 Papers (version 2) [Kaggle]](https://www.kaggle.com/benhamner/nips-2015-papers/version/2): full text of all NIPS2015 papers (335 MB)
@@ -99,6 +101,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Reddit Comments (May ‘15) [Kaggle]](https://www.kaggle.com/reddit/reddit-comments-may-2015): subset of above dataset (8 GB)
 
 *   [Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/): all publicly available Reddit submissions from January 2006 - August 31, 2015). (42 GB)
+
+*   [Reuters Corpus](http://trec.nist.gov/data/reuters/reuters.html): a large collection of Reuters News stories for use in research and development of natural language processing, information retrieval, and machine learning systems. This corpus, known as "Reuters Corpus, Volume 1" or RCV1, is significantly larger than the older, well-known Reuters-21578 collection heavily used in the text classification community. Need to sign agreement and sent per post to obtain. (2.5 GB)
 
 *   [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet): 31,030 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers. (2 MB)
 
@@ -154,6 +158,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [CrowdFlower: Data for Everyone](https://www.crowdflower.com/data-for-everyone/)
 *   [Kaggle 1](https://www.kaggle.com/datasets), [2](https://www.kaggle.com/competitions)
 *   [Open Library](https://openlibrary.org/developers/dumps)
+*   [Quora](https://www.quora.com/Datasets-What-are-the-major-text-corpora-used-by-computational-linguists-and-natural-language-processing-researchers-and-what-are-the-characteristics-biases-of-each-corpus) (mainly annotated corpora)
 *   [/r/datasets](https://www.reddit.com/r/datasets)
 *   [rs.io](http://rs.io/100-interesting-data-sets-for-statistics/)
+*   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/)
