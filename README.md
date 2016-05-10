@@ -114,11 +114,21 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Stackoverflow](http://data.stackexchange.com/): 7.3 million stackoverflow questions + other stackexchanges (query tool)
 
+*   [Twitter Cheng-Caverlee-Lee Scrape](https://archive.org/details/twitter_cikm_2010): Tweets from September 2009 - January 2010, geolocated. (400 MB)
+
 *   [Twitter New England Patriots Deflategate sentiment](https://www.crowdflower.com/data-for-everyone/): Before the 2015 Super Bowl, there was a great deal of chatter around deflated footballs and whether the Patriots cheated. This data set looks at Twitter sentiment on important days during the scandal to gauge public sentiment about the whole ordeal. (2 MB)
 
 *   [Twitter Progressive issues sentiment analysis](https://www.crowdflower.com/data-for-everyone/): tweets regarding a variety of left-leaning issues like legalization of abortion, feminism, Hillary Clinton, etc. classified if the tweets in question were for, against, or neutral on the issue (with an option for none of the above). (600 KB)
 
+*   [Twitter Sentiment140](http://help.sentiment140.com/for-students/): Tweets related to brands/keywords. Website includes papers and research ideas. (77 MB)
+
 *   [Twitter sentiment analysis: Self-driving cars](https://www.crowdflower.com/data-for-everyone/): contributors read tweets and classified them as very positive, slightly positive, neutral, slightly negative, or very negative. They were also prompted asked to mark if the tweet was not relevant to self-driving cars. (1 MB)
+
+*   [Twitter Tokyo Geolocated Tweets](http://followthehashtag.com/datasets/200000-tokyo-geolocated-tweets-free-twitter-dataset/): 200K tweets from Tokyo. (47 MB)
+
+*   [Twitter UK Geolocated Tweets](http://followthehashtag.com/datasets/170000-uk-geolocated-tweets-free-twitter-dataset/): 170K tweets from UK. (47 MB)
+
+*   [Twitter USA Geolocated Tweets](http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/): 200k tweets from the US (45MB)
 
 *   [Twitter US Airline Sentiment [Kaggle]](https://www.kaggle.com/crowdflower/twitter-airline-sentiment): A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). (2.5 MB)
 
