@@ -44,6 +44,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Enron Email Data](http://aws.amazon.com/de/datasets/enron-email-data/): consists of 1,227,255 emails with 493,384 attachments covering 151 custodians (210 GB)
 
+*   [Event Registry](http://eventregistry.org/): Free tool that gives real time access to news articles by 100.000 news publishers worldwide. [Has API](https://github.com/gregorleban/EventRegistry/). (query tool)
+
 *   [Federal Contracts from the Federal Procurement Data Center (USASpending.gov)](http://aws.amazon.com/de/datasets/federal-contracts-from-the-federal-procurement-data-center-usaspending-gov/): data dump of all federal contracts from the Federal Procurement Data Center found at USASpending.gov (180 GB)
 
 *   [Flickr Personal Taxonomies](http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html): Tree dataset of personal tags (40 MB)
@@ -161,5 +163,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Quora](https://www.quora.com/Datasets-What-are-the-major-text-corpora-used-by-computational-linguists-and-natural-language-processing-researchers-and-what-are-the-characteristics-biases-of-each-corpus) (mainly annotated corpora)
 *   [/r/datasets](https://www.reddit.com/r/datasets) (endless list of datasets, most is scraped by amateurs though and not properly documented or licensed)
 *   [rs.io](http://rs.io/100-interesting-data-sets-for-statistics/) (another big list)
+*   [Stackexchange: Opendata](http://opendata.stackexchange.com/)
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
