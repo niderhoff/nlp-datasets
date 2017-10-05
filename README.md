@@ -68,7 +68,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Harvard Library](http://library.harvard.edu/open-metadata#Harvard-Library-Bibliographic-Dataset): over 12 million bibliographic records for materials held by the Harvard Library, including books, journals, electronic resources, manuscripts, archival materials, scores, audio, video and other materials. (4 GB)
 
-*   [Hate speech identification](https://www.crowdflower.com/data-for-everyone/): Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
+*   [Hate speech identification](https://github.com/t-davidson/hate-speech-and-offensive-language): Contributors viewed short text and identified if it a) contained hate speech, b) was offensive but without hate speech, or c) was not offensive at all. Contains nearly 15K rows with three contributor judgments per text string. (3 MB)
 
 *   [Hillary Clinton Emails [Kaggle]](https://www.kaggle.com/kaggle/hillary-clinton-emails): nearly 7,000 pages of Clinton's heavily redacted emails (12 MB)
 
