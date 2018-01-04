@@ -78,6 +78,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Jeopardy](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/): archive of 216,930 past Jeopardy questions (53 MB)
 
+*   [200k English plaintext jokes](https://github.com/taivop/joke-dataset): archive of 208,000 plaintext jokes from various sources.
+
 *   [Machine Translation of European Languages](http://statmt.org/wmt11/translation-task.html#download): (612 MB)
 
 *   [Material Safety Datasheets](http://aws.amazon.com/de/datasets/material-safety-data-sheets/): 230,000 Material Safety Data Sheets. (3 GB)
