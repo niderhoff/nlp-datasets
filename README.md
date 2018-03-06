@@ -46,7 +46,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Event Registry](http://eventregistry.org/): Free tool that gives real time access to news articles by 100.000 news publishers worldwide. [Has API](https://github.com/gregorleban/EventRegistry/). (query tool)
 
-*   [Examiner.com - Spam Clickbait News Headlines [Kaggle]](https://www.kaggle.com/therohk/examine-the-examiner): 3 Million News crowdsourced headlines published by now defunct clickbait website The Examiner from 2010 to 2015. (200 MB)
+*   [Examiner.com - Spam Clickbait News Headlines [Kaggle]](https://www.kaggle.com/therohk/examine-the-examiner): 3 Million crowdsourced News headlines published by now defunct clickbait website The Examiner from 2010 to 2015. (200 MB)
 
 *   [Federal Contracts from the Federal Procurement Data Center (USASpending.gov)](http://aws.amazon.com/de/datasets/federal-contracts-from-the-federal-procurement-data-center-usaspending-gov/): data dump of all federal contracts from the Federal Procurement Data Center found at USASpending.gov (180 GB)
 
@@ -100,7 +100,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [NYTimes Facebook Data](http://minimaxir.com/2015/07/facebook-scraper/): all the NYTimes facebook posts (5 MB)
 
-*   [One Week of Global News Feeds [Kaggle]](https://www.kaggle.com/therohk/global-news-week): News Event dataset of 1.4 Million Articles published globally in 20 languages over one week of August 2017. (115 MB)
+*   [One Week of Global News Feeds [Kaggle]](https://www.kaggle.com/therohk/global-news-week): News Event Dataset of 1.4 Million Articles published globally in 20 languages over one week of August 2017. (115 MB)
 
 *   [Objective truths of sentences/concept pairs](https://www.crowdflower.com/data-for-everyone/): Contributors read a sentence with two concepts. For example “a dog is a kind of animal” or “captain can have the same meaning as master.” They were then asked if the sentence could be true and ranked it on a 1-5 scale. (700 KB)
 
@@ -144,7 +144,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [U.S. economic performance based on news articles](https://www.crowdflower.com/data-for-everyone/): News articles headlines and excerpts ranked as whether relevant to U.S. economy. (5 MB)
 
-*   [Urban Dictionary Words and Definitions [Kaggle]](https://www.kaggle.com/therohk/urban-dictionary-words-dataset): Cleaned CSV corpus of 2.6 Million Urban Dictionary words, definitions, authors, votes as of May 2016. (238 MB)
+*   [Urban Dictionary Words and Definitions [Kaggle]](https://www.kaggle.com/therohk/urban-dictionary-words-dataset): Cleaned CSV corpus of 2.6 Million of all Urban Dictionary words, definitions, authors, votes as of May 2016. (238 MB)
 
 *   [Wesbury Lab Usenet Corpus](http://aws.amazon.com/de/datasets/the-westburylab-usenet-corpus/): anonymized compilation of postings from 47,860 English-language newsgroups from 2005-2010 (40 GB)
 
