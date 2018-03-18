@@ -92,6 +92,9 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
 
+
+*   [Neuralyst](http://neuralyst.com): NLP Dataset for the Stock Market: quartlery report, press releases, sustainability reports, etc. Historical data is free of charge.
+
 *   [News Headlines of India - Times of India [Kaggle]](https://www.kaggle.com/therohk/india-headlines-news-dataset): 2.7 Million News Headlines with category published by Times of India from 2001 to 2017. (185 MB)
 
 *   [News article / Wikipedia page pairings](https://www.crowdflower.com/data-for-everyone/): Contributors read a short article and were asked which of two Wikipedia articles it matched most closely. (6 MB)
