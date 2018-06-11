@@ -58,6 +58,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Freebase Quad Dump](http://aws.amazon.com/de/datasets/freebase-quad-dump/): data dump of all the current facts and assertions in Freebase (35 GB)
 
+*   [German Political Speeches Corpus](http://purl.org/corpus/german-speeches): collection of recent speeches held by top German representatives (25 MB, 11 MTokens)
+
 *   [GigaOM Wordpress Challenge [Kaggle]](https://www.kaggle.com/c/predict-wordpress-likes/data): blog posts, meta data, user likes (1.5 GB)
 
 *   [Google Books Ngrams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html): available also in hadoop format on amazon s3 (2.2 TB)
