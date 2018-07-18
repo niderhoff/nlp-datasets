@@ -76,6 +76,10 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Hillary Clinton Emails [Kaggle]](https://www.kaggle.com/kaggle/hillary-clinton-emails): nearly 7,000 pages of Clinton's heavily redacted emails (12 MB)
 
+*   [Historical Newspapers Yearly N-grams and Entities Dataset](https://data.bris.ac.uk/data/dataset/dobuvuu00mh51q773bo8ybkdz): Yearly time series for the usage of the 1,000,000 most frequent 1-, 2-, and 3-grams from a subset of the British Newspaper Archive corpus, along with yearly time series for the 100,000 most frequent named entities linked to Wikipedia and a list of all articles and newspapers contained in the dataset (3.1 GB)
+
+*   [Historical Newspapers Daily Word Time Series Dataset](https://datadryad.org/resource/doi:10.5061/dryad.nh775): Time series of daily word usage for the 25,000 most frequent words in 87 years of UK and US historical newspapers between 1836 and 1922. (2.7GB)
+
 *   [Home Depot Product Search Relevance [Kaggle]](https://www.kaggle.com/c/home-depot-product-search-relevance/data): contains a number of products and real customer search terms from Home Depot's website. The challenge is to predict a relevance score for the provided combinations of search terms and products. To create the ground truth labels, Home Depot has crowdsourced the search/product pairs to multiple human raters. (65 MB)
 
 *   [Identifying key phrases in text](https://www.crowdflower.com/data-for-everyone/): Question/Answer pairs + context; context was judged if relevant to question/answer. (8 MB)
@@ -89,6 +93,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Material Safety Datasheets](http://aws.amazon.com/de/datasets/material-safety-data-sheets/): 230,000 Material Safety Data Sheets. (3 GB)
 
 *   [Million News Headlines - ABC Australia [Kaggle]](https://www.kaggle.com/therohk/million-headlines): 1.3 Million News headlines published by ABC News Australia from 2003 to 2017. (56 MB)
+
+*   [Millions of News Article URLs](https://datadryad.org/resource/doi:10.5061/dryad.p8s0j): 2.3 million URLs for news articles from the frontpage of over 950 English-language news outlets in the six month period between October 2014 and April 2015. (101MB)
 
 *   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
 
