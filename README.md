@@ -160,6 +160,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Wesbury Lab Wikipedia Corpus](http://www.psych.ualberta.ca/~westburylab/downloads/westburylab.wikicorp.download.html) Snapshot of all the articles in the English part of the Wikipedia that was taken in April 2010. It was processed, as described in detail below, to remove all links and irrelevant material (navigation text, etc) The corpus is untagged, raw text. Used by [Stanford NLP](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9060444488071171966&as_sdt=5) (1.8 GB).
 
+*   [WorldTree Corpus of Explanation Graphs for Elementary Science Questions](http://cognitiveai.org/explanationbank/): a corpus of manually-constructed explanation graphs, explanatory role ratings, and associated semistructured tablestore for most publicly available elementary science exam questions in the US (8 MB)
+
 *   [Wikipedia Extraction (WEX)](http://aws.amazon.com/de/datasets/wikipedia-extraction-wex/): a processed dump of english language wikipedia (66 GB)
 
 *   [Wikipedia XML Data](http://aws.amazon.com/de/datasets/wikipedia-xml-data/): complete copy of all Wikimedia wikis, in the form of wikitext source and metadata embedded in XML. (500 GB)
