@@ -176,6 +176,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Youtube](https://www.reddit.com/r/datasets/comments/3gegdz/17_millions_youtube_videos_description/): 1.7 million youtube videos descriptions (torrent)
 
+*   [2 Sigma Kaggle Competition on NLP Dataset](https://www.kaggle.com/c/two-sigma-financial-news/data): The data includes a subset of US-listed instruments. The set of included instruments changes daily and is determined based on the amount traded and the availability of information. This means that there may be instruments that enter and leave this subset of data. There may therefore be gaps in the data provided, and this does not necessarily imply that that data does not exist (those rows are likely not included due to the selection criteria).
+
 ## Sources
 *   [Awesome public datasets/NLP](https://github.com/caesar0301/awesome-public-datasets#natural-language) (includes more lists)
 *   [AWS Public Datasets](http://aws.amazon.com/de/datasets/)
