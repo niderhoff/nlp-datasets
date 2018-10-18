@@ -144,6 +144,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Twitter sentiment analysis: Self-driving cars](https://www.crowdflower.com/data-for-everyone/): contributors read tweets and classified them as very positive, slightly positive, neutral, slightly negative, or very negative. They were also prompted asked to mark if the tweet was not relevant to self-driving cars. (1 MB)
 
+*   [Twitter Elections Integrity](https://about.twitter.com/en_us/values/elections-integrity.html#data): All suspicious tweets and media from 2016 US election. (1.4 GB)
+
 *   [Twitter Tokyo Geolocated Tweets](http://followthehashtag.com/datasets/200000-tokyo-geolocated-tweets-free-twitter-dataset/): 200K tweets from Tokyo. (47 MB)
 
 *   [Twitter UK Geolocated Tweets](http://followthehashtag.com/datasets/170000-uk-geolocated-tweets-free-twitter-dataset/): 170K tweets from UK. (47 MB)
