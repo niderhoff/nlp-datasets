@@ -202,3 +202,10 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stackexchange: Opendata](http://opendata.stackexchange.com/)
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
+
+## Lexicons
+### Japanese
+*   [Semantic Orientations of Words](http://www.lr.pi.titech.ac.jp/~takamura/pndic_en.html) Real valued word polarity lexicons including 55125 and 88015 Japanese and English words. POS included. 
+*   [SNOW D18: Japanese Emotional Expression Dictionary](http://www.jnlp.org/SNOW/D18) SNOW D18:日本語感情表現辞書。48 categories of emotions of 1979 Japanese words.
+*	[Japanese Sentiment Polarity Dictionary](http://www.cl.ecei.tohoku.ac.jp/index.php?Open%20Resources%2FJapanese%20Sentiment%20Polarity%20Dictionary) Sentiment lexicon for verbs, adjectives, and nouns in Japanese.
+
