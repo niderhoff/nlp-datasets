@@ -210,5 +210,5 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *	  [Japanese Sentiment Polarity Dictionary](http://www.cl.ecei.tohoku.ac.jp/index.php?Open%20Resources%2FJapanese%20Sentiment%20Polarity%20Dictionary) Sentiment lexicon for verbs, adjectives, and nouns in Japanese.
 
 ## Parallel Corpora
-*   [JESC: Japanese-English Subtitle Corpus](https://nlp.stanford.edu/projects/jesc/)
+*   [JESC: Japanese-English Subtitle Corpus](https://nlp.stanford.edu/projects/jesc/) 東北大学，日本語評価極性辞書。
 
