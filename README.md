@@ -203,6 +203,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
 *   [Collection of Japanese Resources](https://vaelen.org/academia/research/japanese/corpora/) by Andrew Young.
+*   [Omniglot - oneline encyclopedia of writing systems and languages](https://www.omniglot.com/index.htm)
 
 ## Lexicons
 ### Japanese
@@ -212,6 +213,9 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 ## Parallel Corpora
 *   [JESC: Japanese-English Subtitle Corpus](https://nlp.stanford.edu/projects/jesc/) Stanford JESC. 
+*   [Universal Declaration of Human Rights](https://unicode.org/udhr/d/udhr_hil.html) Hiligaynon here.
 
 ## Preprocessing Scripts
 *	[Gensim Wikicorpus api](https://radimrehurek.com/gensim/corpora/wikicorpus.html)
+*	[Wikipedia Extractor](http://medialab.di.unipi.it/wiki/Wikipedia_Extractor)
+
