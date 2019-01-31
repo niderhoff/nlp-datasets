@@ -134,6 +134,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Stackoverflow](http://data.stackexchange.com/): 7.3 million stackoverflow questions + other stackexchanges (query tool)
 
+* [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
+
 *   [Twitter Cheng-Caverlee-Lee Scrape](https://archive.org/details/twitter_cikm_2010): Tweets from September 2009 - January 2010, geolocated. (400 MB)
 
 *   [Twitter New England Patriots Deflategate sentiment](https://www.crowdflower.com/data-for-everyone/): Before the 2015 Super Bowl, there was a great deal of chatter around deflated footballs and whether the Patriots cheated. This data set looks at Twitter sentiment on important days during the scandal to gauge public sentiment about the whole ordeal. (2 MB)
