@@ -1,7 +1,7 @@
 # nlp-datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
-## Datasets
+## Datasets (English, multilang)
 *   [Apache Software Foundation Public Mail Archives](http://aws.amazon.com/de/datasets/apache-software-foundation-public-mail-archives/): all publicly available Apache Software Foundation mail archives as of July 11, 2011 (200 GB)
 
 *   [Blog Authorship Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm): consists of the collected posts of 19,320 bloggers gathered from blogger.com in August 2004. 681,288 posts and over 140 million words. (298 MB)
@@ -58,8 +58,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Freebase Quad Dump](http://aws.amazon.com/de/datasets/freebase-quad-dump/): data dump of all the current facts and assertions in Freebase (35 GB)
 
-*   [German Political Speeches Corpus](http://purl.org/corpus/german-speeches): collection of recent speeches held by top German representatives (25 MB, 11 MTokens)
-
 *   [GigaOM Wordpress Challenge [Kaggle]](https://www.kaggle.com/c/predict-wordpress-likes/data): blog posts, meta data, user likes (1.5 GB)
 
 *   [Google Books Ngrams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html): available also in hadoop format on amazon s3 (2.2 TB)
@@ -98,8 +96,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
 
-*   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
-
 *   [News Headlines of India - Times of India [Kaggle]](https://www.kaggle.com/therohk/india-headlines-news-dataset): 2.7 Million News Headlines with category published by Times of India from 2001 to 2017. (185 MB)
 
 *   [News article / Wikipedia page pairings](https://www.crowdflower.com/data-for-everyone/): Contributors read a short article and were asked which of two Wikipedia articles it matched most closely. (6 MB)
@@ -124,8 +120,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Reuters Corpus](http://trec.nist.gov/data/reuters/reuters.html): a large collection of Reuters News stories for use in research and development of natural language processing, information retrieval, and machine learning systems. This corpus, known as "Reuters Corpus, Volume 1" or RCV1, is significantly larger than the older, well-known Reuters-21578 collection heavily used in the text classification community. Need to sign agreement and sent per post to obtain. (2.5 GB)
 
-*   [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet): 31,030 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers. (2 MB)
-
 *   [SMS Spam Collection](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/): 5,574 English, real and non-enconded SMS messages, tagged according being legitimate (ham) or spam.  (200 KB) 
 
 *   [SouthparkData](https://github.com/BobAdamsEE/SouthParkData): .csv files containing script information including: season, episode, character, & line. (3.6 MB)
@@ -133,8 +127,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 * [Stanford Question Answering Dataset (SQUAD 2.0)](https://rajpurkar.github.io/SQuAD-explorer/): a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
 
 *   [Stackoverflow](http://data.stackexchange.com/): 7.3 million stackoverflow questions + other stackexchanges (query tool)
-
-* [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
 
 *   [Twitter Cheng-Caverlee-Lee Scrape](https://archive.org/details/twitter_cikm_2010): Tweets from September 2009 - January 2010, geolocated. (400 MB)
 
@@ -204,3 +196,15 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stackexchange: Opendata](http://opendata.stackexchange.com/)
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
+
+## Datasets (Arabic)
+
+*   [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet): 31,030 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers. (2 MB)
+
+## Datasets (German)
+
+*   [German Political Speeches Corpus](http://purl.org/corpus/german-speeches): collection of recent speeches held by top German representatives (25 MB, 11 MTokens)
+
+*   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
+
+*   [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
