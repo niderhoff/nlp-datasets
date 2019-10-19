@@ -201,6 +201,10 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet): 31,030 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers. (2 MB)
 
+## Datasets (Urdu)
+
+*   [Collection of Urdu Datasets](https://github.com/mirfan899/Urdu) for POS, NER and NLP tasks.
+
 ## Datasets (German)
 
 *   [German Political Speeches Corpus](http://purl.org/corpus/german-speeches): collection of recent speeches held by top German representatives (25 MB, 11 MTokens)
