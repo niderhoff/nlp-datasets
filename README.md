@@ -212,3 +212,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A Syntactically Annotated Corpus of German Newspaper Texts. Available for free for all Universities and non-profit organizations. Need to sign and send form to obtain. (on request)
 
 *   [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
+
+*   [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html): Open Legal Data releases a dataset of 100,000 German court decisions and 444,000 citations (772 MB)
+
