@@ -12,10 +12,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [ArXiv](http://arxiv.org/help/bulk_data_s3): All the Papers on archive as fulltext (270 GB) + sourcefiles (190 GB).
 
-*   [ASAP Automated Essay Scoring [Kaggle]](https://www.kaggle.com/c/asap-aes/data): For this competition, there are eight essay sets. Each of the sets of essays was generated from a single prompt. Selected essays range from an average length of 150 to 550 words per response. Some of the essays are dependent upon source information and others are not. All responses were written by students ranging in grade levels from Grade 7 to Grade 10. All essays were hand graded and were double-scored. (100 MB)
-
-*   [ASAP Short Answer Scoring [Kaggle]](https://www.kaggle.com/c/asap-sas/data): Each of the data sets was generated from a single prompt. Selected responses have an average length of 50 words per response. Some of the essays are dependent upon source information and others are not. All responses were written by students primarily in Grade 10. All responses were hand graded and were double-scored. (35 MB)
-
 *   [Classification of political social media](https://www.crowdflower.com/data-for-everyone/): Social media messages from politicians classified by content. (4 MB)
 
 *   [CLiPS Stylometry Investigation (CSI) Corpus](http://www.clips.uantwerpen.be/datasets/csi-corpus): a yearly expanded corpus of student texts in two genres: essays and reviews. The purpose of this corpus lies primarily in stylometric research, but other applications are possible. (on request)
@@ -93,8 +89,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Million News Headlines - ABC Australia [Kaggle]](https://www.kaggle.com/therohk/million-headlines): 1.3 Million News headlines published by ABC News Australia from 2003 to 2017. (56 MB)
 
 *   [Millions of News Article URLs](https://datadryad.org/resource/doi:10.5061/dryad.p8s0j): 2.3 million URLs for news articles from the frontpage of over 950 English-language news outlets in the six month period between October 2014 and April 2015. (101MB)
-
-*   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
 
 *   [News Headlines of India - Times of India [Kaggle]](https://www.kaggle.com/therohk/india-headlines-news-dataset): 2.7 Million News Headlines with category published by Times of India from 2001 to 2017. (185 MB)
 
