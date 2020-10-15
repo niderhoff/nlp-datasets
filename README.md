@@ -211,4 +211,4 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 ## Datasets (Kinyarwanda and Kirundi)
 
-*  [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): Two annoatated and cleaned datasets of more than 20k Kinyarwanda and 4k Kirundi news articles. (65 MB)
+*  [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): Two annotated and cleaned datasets of more than 20k Kinyarwanda and 4k Kirundi news articles. (65 MB)
