@@ -56,6 +56,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Gutenberg Ebook List](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs): annotated list of ebooks (2 MB)
 
+*   [Gutenberg Standardized Corpus](https://github.com/pgcorpus/gutenberg): Standardized Project Gutenberg Corpus, 55905 books (3GB counts + 18GB tokens)
+
 *   [Hansards text chunks of Canadian Parliament](http://www.isi.edu/natural-language/download/hansard/): 1.3 million pairs of aligned text chunks (sentences or smaller fragments) from the official records (Hansards) of the 36th Canadian Parliament. (82 MB)
 
 *   [Harvard Library](http://library.harvard.edu/open-metadata#Harvard-Library-Bibliographic-Dataset): over 12 million bibliographic records for materials held by the Harvard Library, including books, journals, electronic resources, manuscripts, archival materials, scores, audio, video and other materials. (4 GB)
