@@ -212,3 +212,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
 
 *   [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html): Open Legal Data releases a dataset of 100,000 German court decisions and 444,000 citations (772 MB)
+
+## Datasets (Kinyarwanda and Kirundi)
+
+*  [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): Two annotated and cleaned datasets of more than 20k Kinyarwanda and 4k Kirundi news articles. (65 MB)
