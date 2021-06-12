@@ -32,10 +32,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Diplomacy](https://go.umd.edu/diplomacy_data): 17,000 conversational messages from 12 games of Diplomacy, annotated for truthfulness (3 MB)
 
-*   [Disasters on social media](https://www.crowdflower.com/data-for-everyone/): 10,000 tweets with annotations whether the tweet referred to a disaster event (2 MB).
-
-*   [Economic News Article Tone and Relevance](https://www.crowdflower.com/data-for-everyone/): News articles judged if relevant to the US economy and, if so, what the tone of the article was. Dates range from 1951 to 2014. (12 MB)
-
 *   [Elsevier OA CC-BY Corpus](https://data.mendeley.com/datasets/zm33cdndxs/2): 40k (40,001) Open Access full-text scientific articles with complete metadata include subject classifications (963Mb)
 
 *   [Enron Email Data](http://aws.amazon.com/de/datasets/enron-email-data/): consists of 1,227,255 emails with 493,384 attachments covering 151 custodians (210 GB)
