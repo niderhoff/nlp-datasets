@@ -191,6 +191,10 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Stanford NLP group](http://www-nlp.stanford.edu/links/statnlp.html) (mainly annotated corpora and TreeBanks or actual NLP tools)
 *   [Yahoo! Webscope](http://webscope.sandbox.yahoo.com/) (also includes papers that use the data that is provided)
 
+## Datasets (Albanian)
+
+*   [Albanian News Articles Dataset](https://www.kaggle.com/gentrexha/kosovo-news-articles-dataset): Over 3 million Albanian news articles alongwith metadata, extracted from various albanian news sources (see list in link).
+
 ## Datasets (Arabic)
 
 *   [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet): 31,030 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers. (2 MB)
