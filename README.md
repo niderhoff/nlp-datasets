@@ -209,6 +209,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html): Open Legal Data releases a dataset of 100,000 German court decisions and 444,000 citations (772 MB)
 
+*   [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad): deepset releases a hand annotated German Question Answering and Information Retrieval dataset (~14k QA pairs)
+
 ## Datasets (Kinyarwanda and Kirundi)
 
 *  [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): Two annotated and cleaned datasets of more than 20k Kinyarwanda and 4k Kirundi news articles. (65 MB)
