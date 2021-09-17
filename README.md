@@ -106,6 +106,10 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Reddit Comments (May ‘15) [Kaggle]](https://www.kaggle.com/reddit/reddit-comments-may-2015): subset of above dataset (8 GB)
 
+*   [Reddit /r/nonewnormal [Kaggle]](https://www.kaggle.com/pavellexyr/reddit-r-nonewnormal-dataset): all posts and comments from /r/nonewnormal. (911 MB)
+
+*   [Reddit /r/wallstreetbets (Aug ‘21) [Kaggle]](https://www.kaggle.com/pavellexyr/wallstreetbets-posts-and-comments-for-august-2021): all posts and comments from /r/wallstreetbets, only for Aug. 2021 (255 MB)
+
 *   [Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/): all publicly available Reddit submissions from January 2006 - August 31, 2015). (42 GB)
 
 *   [Reuters Corpus](http://trec.nist.gov/data/reuters/reuters.html): a large collection of Reuters News stories for use in research and development of natural language processing, information retrieval, and machine learning systems. This corpus, known as "Reuters Corpus, Volume 1" or RCV1, is significantly larger than the older, well-known Reuters-21578 collection heavily used in the text classification community. Need to sign agreement and sent per post to obtain. (2.5 GB)
