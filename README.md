@@ -27,7 +27,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [DBpedia](http://aws.amazon.com/de/datasets/dbpedia-3-5-1/?tag=datasets%23keywords%23encyclopedic): a community effort to extract structured information from Wikipedia and to make this information available on the Web (17 GB)
 
 *   [Death Row](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html): last words of every inmate executed since 1984 online (HTML table)
-*   
+
 *   [Diplomacy](https://go.umd.edu/diplomacy_data): 17,000 conversational messages from 12 games of Diplomacy, annotated for truthfulness (3 MB)
 
 *   [Elsevier OA CC-BY Corpus](https://data.mendeley.com/datasets/zm33cdndxs/2): 40k (40,001) Open Access full-text scientific articles with complete metadata include subject classifications (963Mb)
@@ -37,6 +37,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Event Registry](http://eventregistry.org/): Free tool that gives real time access to news articles by 100.000 news publishers worldwide. [Has API](https://github.com/gregorleban/EventRegistry/). (query tool)
 
 *   [Examiner.com - Spam Clickbait News Headlines [Kaggle]](https://www.kaggle.com/therohk/examine-the-examiner): 3 Million crowdsourced News headlines published by now defunct clickbait website The Examiner from 2010 to 2015. (200 MB)
+
+- [FiveThirtyEight.com Data Sets.](https://github.com/fivethirtyeight/data) Data and code behind the FiveThirtyEight website
 
 *   [Federal Contracts from the Federal Procurement Data Center (USASpending.gov)](http://aws.amazon.com/de/datasets/federal-contracts-from-the-federal-procurement-data-center-usaspending-gov/): data dump of all federal contracts from the Federal Procurement Data Center found at USASpending.gov (180 GB)
 
