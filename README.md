@@ -102,8 +102,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Personae Corpus](http://www.clips.uantwerpen.be/datasets/personae-corpus): collected for experiments in Authorship Attribution and Personality Prediction. It consists of 145 Dutch-language essays by 145 different students. (on request)
 
-*   [Reddit Comments](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_
-_comment/): every publicly available reddit comment as of july 2015. 1.7 billion comments (250 GB)
+*   [Reddit Comments](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/): every publicly available reddit comment as of july 2015. 1.7 billion comments (250 GB)
 
 *   [Reddit Comments (May ‘15) [Kaggle]](https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015): subset of above dataset (8 GB)
 
