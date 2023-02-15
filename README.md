@@ -104,7 +104,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Reddit Comments](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/): every publicly available reddit comment as of july 2015. 1.7 billion comments (250 GB)
 
-*   [Reddit Comments (May ‘15) [Kaggle]](https://www.kaggle.com/reddit/reddit-comments-may-2015): subset of above dataset (8 GB)
+*   [Reddit Comments (May ‘15) [Kaggle]](https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015): subset of above dataset (8 GB)
 
 *   [Reddit Submission Corpus](https://www.reddit.com/r/datasets/comments/3mg812/full_reddit_submission_corpus_now_available_2006/): all publicly available Reddit submissions from January 2006 - August 31, 2015). (42 GB)
 
