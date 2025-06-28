@@ -32,7 +32,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Elsevier OA CC-BY Corpus](https://data.mendeley.com/datasets/zm33cdndxs/2): 40k (40,001) Open Access full-text scientific articles with complete metadata include subject classifications (963Mb)
 
-*   [Enron Email Data](http://aws.amazon.com/de/datasets/enron-email-data/): consists of 1,227,255 emails with 493,384 attachments covering 151 custodians (210 GB)
+*   [Enron Email Data](https://www.cs.cmu.edu/~enron/): Enron email communication network covers all the email communication within a dataset of around half million emails. May 7, 2015 version of the dataset. (1.7 GB)
 
 *   [Event Registry](http://eventregistry.org/): Free tool that gives real time access to news articles by 100.000 news publishers worldwide. [Has API](https://github.com/gregorleban/EventRegistry/). (query tool)
 
