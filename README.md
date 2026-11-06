@@ -50,6 +50,8 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [GigaOM Wordpress Challenge [Kaggle]](https://www.kaggle.com/c/predict-wordpress-likes/data): blog posts, meta data, user likes (1.5 GB)
 
+*   [Global Law](https://github.com/lexifina/global-law): legislation of 208 jurisdictions (714 corpora) in their original languages as git repositories, one file per provision and one commit per change, dated the day it took effect. Index and tools CC0; the law text under each jurisdiction repository's terms.
+
 *   [Google Books Ngrams](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html): available also in hadoop format on amazon s3 (2.2 TB)
 
 *   [Google Web 5gram](https://catalog.ldc.upenn.edu/LDC2006T13): contains English word n-grams and their observed frequency counts (24 GB)
